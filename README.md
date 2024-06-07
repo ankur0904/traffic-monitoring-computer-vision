@@ -22,9 +22,6 @@ This project implements a vehicle counting system using the YOLOv8 object detect
    pip install -r requirements.txt
    ```
 
-3. **Download the YOLOv8 model**:
-   Download the `yolov8n.pt` model from the [Ultralytics YOLOv8 repository](https://github.com/ultralytics/yolov8).
-
 ## Usage
 
 1. **Prepare your video input**:
@@ -61,9 +58,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgements
 
-- [Ultralytics YOLO](https://github.com/ultralytics/yolov8) for the object detection model.
+- [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) for the object detection model.
 - [SORT](https://github.com/abewley/sort) for the tracking algorithm.
-- [CVZone](https://github.com/cvzone/cvzone) for additional OpenCV utilities.
+- [CVZone](https://github.com/cvzone/cvzone) for additional [OpenCV](https://github.com/opencv/opencv) utilities.
 
 ## Contributing
 
