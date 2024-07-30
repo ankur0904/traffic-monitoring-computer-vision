@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/87318b44-a20d-46a3-84e9-7394e6cd5746
+
+
+
 # Vehicle Counting System
 
 This project implements a vehicle counting system using the YOLOv8 object detection model and SORT tracker. The system processes video input to detect and track vehicles, counting the number that cross a designated line.
